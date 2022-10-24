@@ -1,0 +1,63 @@
+
+[class]{
+    border-width: 2px ;
+    border-color: red;
+}
+
+.flex-container {
+    background-color: lightblue;
+    display:flex;
+    flex-wrap:wrap;
+
+    height: 15vh;
+    margin-top: 2.5vh
+  }
+
+
+
+.flex-container *{
+    color:red;
+
+    border: 5px solid black;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin: 0px;
+}
+
+.logo{
+    height: 100%;
+    width: 15vw;
+}
+
+.empty1{
+width: 5vw;
+
+}
+
+
+.empty2{
+    width: 5vw;
+
+
+
+}
+
+.logo{
+width: 20vw;
+}
+
+.safechoices{
+    width: 15vw;
+}
+
+.safecities{
+    width: 15vw;
+}
+
+.safehomes{
+    width: 15vw;
+}
+
+.safeschools{
+    width: 15vw;
+}
