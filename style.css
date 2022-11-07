@@ -390,3 +390,10 @@ h3{
     transition: 900ms;
     transform: rotate(360deg);
 }
+
+.content a{
+    color: purple;
+}
+.content a:hover{
+    color:blue;
+}
